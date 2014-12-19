@@ -1,0 +1,20 @@
+{
+    "name": "laravel/cashier-libs",
+    "description": "PhantomJS Binaries for laravel/cashier",
+    "keywords": ["pdf", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taylor Otwell",
+            "email": "taylorotwell@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/linux-i686-phantomjs",
+        "bin/linux-x86_64-phantomjs",
+        "bin/macosx-phantomjs",
+        "bin/phantomjs.exe"
+    ],
+    "require": {}
+}
